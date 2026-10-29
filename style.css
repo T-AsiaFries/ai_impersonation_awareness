@@ -1,0 +1,25 @@
+/* Layout style */
+body { color: #17231c; line-height: 1.7; }
+h1, h2, h3 { line-height: 1.2; }
+h2 { font-weight: 700; margin-bottom: 1rem; }
+a { color: #175d3b; }
+a:hover { color: #103c28; }
+.bg-dark-green { background-color: #123b29; }
+.light-green { background-color: #edf5ed; }
+
+/* Intro */
+.hero { background-color: #246b48; color: white; }
+.hero .lead { max-width: 38rem; }
+.eyebrow, .section-label { font-size: .8rem; font-weight: 700; letter-spacing: .1em; }
+.section-label { color: #276b48; }
+.hero-image { max-height: 300px; display: block; margin: auto; }
+
+/* Content */
+.card { border: 1px solid #c9ddca; border-radius: .75rem; }
+.example-box { background: white; border-left: 5px solid #43885a; border-radius: .3rem; }
+.step-number { color: #43885a; font-size: 2rem; font-weight: 700; }
+.source-list li { margin-bottom: .75rem; }
+@media (max-width: 575px) {
+    .navbar .container { justify-content: center; }
+    .navbar-nav { width: 100%; justify-content: center; }
+}

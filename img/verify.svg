@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 320" role="img" aria-label="Phone message and shield">
+<rect x="85" y="15" width="205" height="290" rx="25" fill="#f4faf2"/><rect x="99" y="33" width="177" height="252" rx="13" fill="#d9edda"/><rect x="151" y="24" width="72" height="7" rx="3" fill="#246b48"/>
+<rect x="117" y="70" width="140" height="68" rx="14" fill="#fff"/><path d="M132 91h91M132 108h75" stroke="#75a783" stroke-width="7" stroke-linecap="round"/><rect x="135" y="158" width="120" height="52" rx="14" fill="#a2cfaa"/><path d="M151 178h82M151 193h58" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+<path d="M294 136l75 27v53c0 43-31 69-75 86-44-17-75-43-75-86v-53z" fill="#123b29" stroke="#fff" stroke-width="7"/><path d="M262 215l22 21 42-47" fill="none" stroke="#b7e4b8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
